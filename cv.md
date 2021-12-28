@@ -1,10 +1,11 @@
 
-# Alexander @RadioWP*
-
-\* Personal information has been changed for privacy reasons and can be provided upon request.
+# Alexander @RadioWP\*
 
 
-## Contacts*
+\* *Personal information has been changed for privacy reasons and can be provided upon request.*
+
+
+## Contacts\*
 
 Location: Minsk, Belarus  
 Phone: +375 29 000 00 00  
@@ -38,7 +39,7 @@ Head of department in a state-owned enterprise. Additional information can be pr
 
 - Bachelor’s Degree in Economics;  
 - Offline trainings: project management;  
-- Online trainings: frontend development (RS School, CS50, MDN, w3schools, freecodecamp, code-basics, etc)
+- Online trainings: frontend development (RS School, CS50, MDN, w3schools, freecodecamp, code-basics, etc).
 
 
 ## Languages
