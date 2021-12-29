@@ -2,7 +2,7 @@
 # Alexander @RadioWP\*
 
 
-\* *Personal information has been changed for privacy reasons and can be provided upon request.*
+\* *This CV has been created for training purposes. Personal information has been changed for privacy reasons and can be provided upon request.*
 
 
 ## Contacts\*
