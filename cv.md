@@ -1,15 +1,20 @@
 
-# Alexander @RadioWP\*
+# Alexander RadioWP\*
 
 
-\* *This CV has been created for training purposes. Personal information has been changed for privacy reasons and can be provided upon request.*
+### Junior Frontend Developer
 
 
-## Contacts\*
+\* *This CV has been created for training purposes. Personal information has been hidden for privasy reasons and can be provided upon request.*
+
+
+## Contacts
 
 Location: Minsk, Belarus  
-Phone: +375 29 000 00 00  
-Email: email@example.com
+GitHub: RadioWP  
+Discord: RadioWP#8132  
+Email: \*\*\*\*\*\*\*@gmail.com  
+Phone: +375 29 \*\*\* \*\* \*\*
 
 
 ## Summary
