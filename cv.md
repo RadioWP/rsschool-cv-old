@@ -5,7 +5,7 @@
 ### Junior Frontend Developer
 
 
-\* *This CV has been created for training purposes. Personal information has been hidden for privasy reasons and can be provided upon request.*
+\* *This CV was created for training purposes. Part of personal information was hidden for privasy reasons and can be provided upon request.*
 
 
 ## Contacts
@@ -19,7 +19,7 @@ Phone: +375 29 \*\*\* \*\* \*\*
 
 ## Summary
 
-Junior frontend developer at the Stage 0 of RS School JS/FE 2022Q1. Started studying at RS School to systematize and improve the level of frontend development skills for further career and personal projects.
+Junior frontend developer at the Stage 0 of RS School JS/FE 2022Q1. Started studying at RS School to systematize and improve the level of frontend development skills for further career and personal projects. 
 
 
 ## Skills
@@ -35,16 +35,15 @@ function multiply(a, b){
 }
 ```
 
-## Projects
-
-RS School JS/FE 2022Q1 tasks:  
-1. [Markdown CV](https://radiowp.github.io/rsschool-cv/cv)  
-2. [HTML&CSS CV](https://radiowp.github.io/rsschool-cv/)
-
 
 ## Experience
 
-Head of department in a state-owned enterprise. Additional information can be provided upon request.
+**Current:** Head of analytical department in a state-owned enterprise. Extensive practical experience in gathering fragmented information from external sources and making research-based content. Experience in managing a small team, including remote work. Additional information can be provided upon request.  
+
+
+**RS School JS/FE 2022Q1 projects:**  
+1. [Markdown CV](https://radiowp.github.io/rsschool-cv/cv)  
+2. [HTML&CSS CV](https://radiowp.github.io/rsschool-cv/)
 
 
 ## Education
