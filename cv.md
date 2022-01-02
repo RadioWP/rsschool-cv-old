@@ -35,6 +35,13 @@ function multiply(a, b){
 }
 ```
 
+## Projects
+
+RS School JS/FE 2022Q1 tasks:  
+1. [Markdown CV](https://radiowp.github.io/rsschool-cv/cv)  
+2. [HTML&CSS CV](https://radiowp.github.io/rsschool-cv/)
+
+
 ## Experience
 
 Head of department in a state-owned enterprise. Additional information can be provided upon request.
