@@ -48,7 +48,7 @@ function multiply(a, b){
 
 ## Education
 
-- Bachelor’s Degree in Economics;  
+- Bachelor's Degree in Economics;  
 - Offline trainings: Project Management;  
 - Online trainings: Frontend Development (RS School, CS50, MDN, w3schools, freecodecamp, code-basics, etc).
 
