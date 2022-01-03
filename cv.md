@@ -38,7 +38,7 @@ function multiply(a, b){
 
 ## Experience
 
-**Current:** Head of analytical department in a state-owned enterprise. Extensive practical experience in gathering fragmented information from external sources and making research-based content. Experience in managing a small team, including remote work. Additional information can be provided upon request.  
+Current position: Head of department in a state-owned enterprise. Additional information can be provided upon request.  
 
 
 **RS School JS/FE 2022Q1 projects:**  
